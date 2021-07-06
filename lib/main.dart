@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:nom_package_projet/stat_widget.dart';
+import 'package:flutter_application_profile_page/stat_widget.dart';
 
 void main() {
   runApp(MyApp());
