@@ -1,4 +1,4 @@
-name: instogrom
+name: flutter_application_profile_page
 description: C'est un projet Flutter, une sorte d'instagram de wish
 
 # The following line prevents the package from being accidentally published to
@@ -35,6 +35,13 @@ dev_dependencies:
   flutter_test:
     sdk: flutter
   flutter_launcher_icons: ^0.7.5
+  flutter_rename_app: ^1.0.0
+
+flutter_rename_app:
+  application_name: Instogrom
+  dart_package_name: flutter_application_profile_page
+  application_id: fr.blunay.instogrom
+  bundle_id: fr.blunay.instogrom
 
 flutter_icons:
   android: "launcher_icon" 
