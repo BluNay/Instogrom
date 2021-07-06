@@ -1,4 +1,4 @@
-# flutter_application_profile_page
+# Instogrom
 
 C'est un projet Flutter, une sorte d'instagram de wish 😉
 
